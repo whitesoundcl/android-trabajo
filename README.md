@@ -1,8 +1,10 @@
 # android-trabajo
 
-Trabajo Horoscopo chino.
+Trabajo Horoscopo chino. 
 
-# Realizadores originales:
+# Integrantes del grupo de trabajo:
   Luis Clavijo
   <br>Sebastian Chamorro
   <br>Javier Jara
+  
+  
