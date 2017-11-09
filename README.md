@@ -1,3 +1,8 @@
 # android-trabajo
 
-Ejemplo de horoscopo chino.
+Trabajo Horoscopo chino.
+
+# Realizadores originales:
+  Luis Clavijo
+  Sebastian Chamorro
+  Javier Jara
