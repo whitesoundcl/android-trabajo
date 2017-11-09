@@ -4,5 +4,5 @@ Trabajo Horoscopo chino.
 
 # Realizadores originales:
   Luis Clavijo
-  Sebastian Chamorro
-  Javier Jara
+  <br>Sebastian Chamorro
+  <br>Javier Jara
